@@ -1,6 +1,8 @@
 import * as fs from "fs";
 
 import puppeteer from "puppeteer";
+import * as R from "ramda";
+import * as _ from "lodash";
 
 (async () => {
 ////////////////////////////////////////////////////////////////////////////////
